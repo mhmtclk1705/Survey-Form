@@ -1,0 +1,52 @@
+body{
+    margin-top: 0;
+    font-size: 20px;
+}
+
+
+h1{
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 75px;
+    font-family: 'Times New Roman', Times, serif
+}
+p{
+    font-size: 30px;
+}
+
+.form input{
+    font-size: 20px;
+    margin-top: 15px;
+    padding: 5px;
+
+}
+.describes,
+.fav,
+.rcla,.imp
+{
+    line-height: 2;
+    font-size: 30px;
+}
+.recommend{
+    font-size: 20px;
+    line-height: 1.5;
+}
+.describes select,
+.fav select{
+ font-size: 20px;
+
+}
+.comment{
+    font-size: 30px;
+    overflow: scroll;
+    line-height: 2;
+}
+.comment ::placeholder {
+    font-size: 20px;
+}
+.submit{
+    border: none;
+    opacity: 0.9;
+    
+    
+}
